@@ -1,0 +1,36 @@
+{
+  "sections": 128,
+  "section_vertices": 2187,
+  "cases": [
+    {
+      "case": "coordinates",
+      "dimension": 7,
+      "vertices": 128,
+      "terms": 1,
+      "mean": "0"
+    },
+    {
+      "case": "path, conjunction, coordinates",
+      "dimension": 11,
+      "vertices": 2048,
+      "terms": 4,
+      "mean": "-9/64"
+    },
+    {
+      "case": "path, two conjunctions, coordinates",
+      "dimension": 12,
+      "vertices": 4096,
+      "terms": 8,
+      "mean": "-9/32"
+    },
+    {
+      "case": "conjunction, path, constant, coordinates",
+      "dimension": 10,
+      "vertices": 1024,
+      "terms": 4,
+      "mean": "-27/64"
+    }
+  ],
+  "composition_vertices": 7296,
+  "disjoint_winners_verified": true
+}
